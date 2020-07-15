@@ -1,6 +1,6 @@
 ### Hi, welcome on my profile 👋
-## Profiles:
+#### Profiles:
 * LinkedIn: [@mbledkowski](https://linkedin.com/in/mbledkowski)
 * Instagram: [@mbledkowski](https://instagram.com/mbledkowski)
-## Websites:
+#### Websites:
 * Dni do matury - [dnidomatury.pl](https://dnidomatury.pl)
