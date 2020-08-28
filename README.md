@@ -1,5 +1,6 @@
 ### Hi, welcome on my profile 👋
 #### Profiles:
+* SoloLearn: [Maciej Błędkowski](https://www.sololearn.com/Profile/5637768)
 * Codepen: [@mbled](https://codepen.io/mbled)
 * Codewars: [@mbled](https://codewars.com/users/mbled)
 * TryHackMe: [@mble](https://tryhackme.com/p/mble)
