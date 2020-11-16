@@ -9,4 +9,4 @@
 * Instagram: [@mbledkowski](https://instagram.com/mbledkowski)
 #### Websites:
 * Dni do matury: [dnidomatury.pl](https://dnidomatury.pl)
-* Maciej Błędkowski's portfolio: [mbledkowski.github.io](https://mbledkowski.github.io)
+* Maciej Błędkowski's website: [mbledkowski.github.io](https://mbledkowski.github.io)
