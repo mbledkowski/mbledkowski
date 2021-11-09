@@ -8,5 +8,5 @@
 * LinkedIn: [@mbledkowski](https://linkedin.com/in/mbledkowski)
 * Instagram: [@mbledkowski](https://instagram.com/mbledkowski)
 #### Websites:
-* Dni do matury: [dnidomatury.pl](http://dnidomatury.herokuapp.com/) (Work in progress)
-* Maciej Błędkowski's website: [mbledkowski.github.io](https://mbledkowski.github.io) (Work in progress)
+* Maciej Błędkowski's website: [mble.dk](https://mble.dk)
+* keycomp: [keycomp.co](https://keycomp.co)
