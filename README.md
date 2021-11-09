@@ -9,4 +9,4 @@
 * Instagram: [@mbledkowski](https://instagram.com/mbledkowski)
 #### Websites:
 * Maciej Błędkowski's website: [mble.dk](https://mble.dk)
-* keycomp: [keycomp.co](https://keycomp.co)
+* keycomp: [keycomp.co](https://keycomp.co) (Work in progress!)
