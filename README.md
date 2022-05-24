@@ -9,4 +9,6 @@
 * Instagram: [@mbledkowski](https://instagram.com/mbledkowski)
 #### Websites:
 * Maciej Błędkowski's website: [mble.dk](https://mble.dk)
-* keycomp: [keycomp.co](https://keycomp.co) (Work in progress!)
+* keycomp - website about mechanical keyboard switches: [keycomp.co](https://keycomp.co) (Work in progress!)
+* Minecraft (Server) Package Manager: [mpm.gg](https://mpm.gg)
+* PluGet - Minecraft plugin API: [pluget.net](https://pluget.net)
