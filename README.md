@@ -1,4 +1,11 @@
 ### Hi, welcome on my profile 👋
+#### About me:
+- Front-end / Full-stack Developer
+- Open-source Enthusiast
+- Colemak Layout User
+- Arch Linux User
+- Polish Underground Hip-hop Listener
+
 #### Profiles:
 * SoloLearn: [Maciej Błędkowski](https://www.sololearn.com/Profile/5637768)
 * Codepen: [@mbled](https://codepen.io/mbled)
