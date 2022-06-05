@@ -4,7 +4,7 @@
 - Open-source Enthusiast
 - Colemak Layout User
 - Arch Linux User
-- Polish Underground Hip-hop Listener
+- Underground Trap Listener
 
 #### Profiles:
 * SoloLearn: [Maciej Błędkowski](https://www.sololearn.com/Profile/5637768)
