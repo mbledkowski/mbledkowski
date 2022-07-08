@@ -20,19 +20,16 @@
 * Minecraft (Server) Package Manager: [mpm.gg](https://mpm.gg)
 * PluGet - Minecraft plugin API: [pluget.net](https://pluget.net)
 * Antipixels archive: [antipixel.art](https://antipixel.art)
-#### Stack:
 
+#### Stack:
 Front-end | Back-end | DevOps
 --------- | -------- | ------
-HTML / CSS | Node.JS / Deno / Bun | PostgreSQL
-Vue / Nuxt | TypeScript / JavaScript | Docker
-React / Next | Express.js | Oracle Cloud Infrastructure
-Preact | Puppeteer | Linux / Unix (Ubuntu / Debian, Fedora / RHEL, Arch Linux, NixOS, macOS)
+HTML / Pug / CSS / Sass / SCSS | Node.JS / Deno / Bun | PostgreSQL / MongoDB
+TailwindCSS / DaisyUI | TypeScript / JavaScript | Docker
+Vue / Nuxt | Express.js | Oracle Cloud Infrastructure / Google Cloud Platform
+React / Next | Puppeteer | Linux / Unix (Ubuntu / Debian, Fedora / RHEL, Arch Linux, NixOS, macOS)
+Preact / Fresh | Jest |
+-- | Vite / Webpack / Babel |
 
 ##### Also
-
-Front-end | Back-end | DevOps
---------- | -------- | ------
-TailwindCSS | Rust | MongoDB
--- | Rocket.rs | Google Cloud Platform
--- | Jest | --
+Rust and Rocket.rs
