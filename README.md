@@ -19,11 +19,12 @@
 * keycomp - website about mechanical keyboard switches: [keycomp.co](https://keycomp.co) (Work in progress!)
 * Minecraft (Server) Package Manager: [mpm.gg](https://mpm.gg)
 * PluGet - Minecraft plugin API: [pluget.net](https://pluget.net)
+* Antipixels archive: [antipixel.art](https://antipixel.art)
 #### Stack:
 
 Front-end | Back-end | DevOps
 --------- | -------- | ------
-HTML / CSS | Node.JS | PostgreSQL
+HTML / CSS | Node.JS / Deno / Bun | PostgreSQL
 Vue / Nuxt | TypeScript / JavaScript | Docker
 React / Next | Express.js | Oracle Cloud Infrastructure
 Preact | Puppeteer | Linux / Unix (Ubuntu / Debian, Fedora / RHEL, Arch Linux, NixOS, macOS)
