@@ -20,6 +20,7 @@
 * Minecraft (Server) Package Manager: [mpm.gg](https://mpm.gg)
 * PluGet - Minecraft plugin API: [pluget.net](https://pluget.net)
 * Antipixels archive: [antipixel.art](https://antipixel.art)
+* MediaWiki alternative / influencers wiki: [neu.wiki](https://neu.wiki) / [influ.wiki](https://influ.wiki)
 
 #### Stack:
 Front-end | Back-end | DevOps
