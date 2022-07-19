@@ -27,10 +27,10 @@ Front-end | Back-end | DevOps
 --------- | -------- | ------
 HTML / Pug / CSS / Sass / SCSS | Node.JS / Deno / Bun | PostgreSQL / MongoDB
 TailwindCSS / DaisyUI | TypeScript / JavaScript | Docker
-Vue / Nuxt | Express.js | Oracle Cloud Infrastructure / Google Cloud Platform
+Vue / Nuxt | Express.js / Nest.js | Oracle Cloud Infrastructure / Google Cloud Platform
 React / Next | Puppeteer | Linux / Unix (Ubuntu / Debian, Fedora / RHEL, Arch Linux, NixOS, macOS)
 Preact / Fresh | Jest |
 -- | Vite / Webpack / Babel |
-
+-- | OpenAPI |
 ##### Also
 Rust and Rocket.rs
