@@ -8,6 +8,7 @@
 
 #### Profiles:
 * Codepen: [@mbled](https://codepen.io/mbled)
+* HuggingFace: [@mble](https://huggingface.co/mble)
 * Stack Overflow: [Maciej Błędkowski](https://stackoverflow.com/users/10492295)
 * LinkedIn: [@mbled](https://linkedin.com/in/mbled)
 ##### Social Media
