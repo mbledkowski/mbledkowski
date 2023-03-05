@@ -3,7 +3,7 @@
 - Front-end / Full-stack Developer
 - Open-source Enthusiast
 - Colemak Layout User
-- Arch Linux User
+- NixOS User
 - Underground Music Listener
 
 #### Profiles:
