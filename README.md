@@ -23,9 +23,9 @@
 #### Websites:
 * Maciej Błędkowski's website: [mble.dk](https://mble.dk)
 * keycomp - website about mechanical keyboard switches: [keycomp.co](https://keycomp.co) (Work in progress!)
-* Minecraft (Server) Package Manager: [mpm.gg](https://mpm.gg)
-* PluGet - Minecraft plugin API: [pluget.net](https://pluget.net)
-* Antipixels archive: [antipixel.art](https://antipixel.art)
+* Minecraft (Server) Package Manager: ~~[mpm.gg](https://mpm.gg)~~
+* PluGet - Minecraft plugin API: ~~[pluget.net](https://pluget.net)~~
+* Antipixels archive: ~~[antipixel.art](https://antipixel.art)~~
 
 #### Stack:
 Front-end | Back-end | DevOps
